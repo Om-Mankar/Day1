@@ -1,1 +1,1 @@
-chechkin gcommit for single fie
+chechkin gcommit for single file
